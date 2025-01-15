@@ -1,0 +1,105 @@
+
+  empirebuilder:
+    tag: '&#ffa500[&lᴛ&#ffae19&#ffb82b&#ffc33c&#ffcc4d&#ffd65f&#ffe0aa]'
+    permission: supremetags.tag.empirebuilder
+    description: Build vast empires with wealth and influence
+    category: default
+    display-item: NAME_TAG
+    displayname: '&7Tag: %tag%'
+    cost: 0.0
+  cashflow:
+    tag: '&#32cd32[&lᴄ&#3cdb3c&#47e947&#52f752&#5dff5d&#68ff68&#73ff73]'
+    permission: supremetags.tag.cashflow
+    description: A constant stream of wealth and resources
+    category: default
+    display-item: NAME_TAG
+    displayname: '&7Tag: %tag%'
+    cost: 0.0
+  profitmaster:
+    tag: '&#4682b4[&lᴘ&#578cbb&#6896c2&#79a0c9&#8aabcf&#9bb5d6&#acc0dd]'
+    permission: supremetags.tag.profitmaster
+    description: Dominate profit margins and expand wealth
+    category: default
+    display-item: NAME_TAG
+    displayname: '&7Tag: %tag%'
+    cost: 0.0
+  wealthforge:
+    tag: '&#ff8c00[&lᴡ&#ff9814&#ffa42d&#ffb046&#ffbc5f&#ffc878&#ffd491]'
+    permission: supremetags.tag.wealthforge
+    description: Forge immense wealth from the fires of opportunity
+    category: default
+    display-item: NAME_TAG
+    displayname: '&7Tag: %tag%'
+    cost: 0.0
+  dealmaker:
+    tag: '&#6a5acd[&lᴅ&#7262d6&#7a6bdf&#8274e8&#8a7cf1&#927df1&#9a8ff3]'
+    permission: supremetags.tag.dealmaker
+    description: Strike deals and secure fortunes at every turn
+    category: default
+    display-item: NAME_TAG
+    displayname: '&7Tag: %tag%'
+    cost: 0.0
+  mintmaster:
+    tag: '&#00ff7f[&lᴍ&#19ff8c&#33ff9a&#4cffb9&#66ffce&#7fffe3&#99fff0]'
+    permission: supremetags.tag.mintmaster
+    description: Master the art of minting money
+    category: default
+    display-item: NAME_TAG
+    displayname: '&7Tag: %tag%'
+    cost: 0.0
+  financialwizard:
+    tag: '&#800080[&lғ&#8b1e8b&#961e96&#a21ea2&#ad1ead&#b91fb9&#c520c5]'
+    permission: supremetags.tag.financialwizard
+    description: Cast spells of financial success and prosperity
+    category: default
+    display-item: NAME_TAG
+    displayname: '&7Tag: %tag%'
+    cost: 0.0
+  currencyking:
+    tag: '&#1e90ff[&lᴄ&#2a96ff&#359cff&#40a2ff&#4ba8ff&#56aeff&#61b4ff]'
+    permission: supremetags.tag.currencyking
+    description: Rule over currencies and global economies
+    category: default
+    display-item: NAME_TAG
+    displayname: '&7Tag: %tag%'
+    cost: 0.0
+  moneybags:
+    tag: '&#daa520[&lᴍ&#e1b03c&#e7bb58&#eec674&#f5d090&#fbdaac&#fff4c8]'
+    permission: supremetags.tag.moneybags
+    description: Carrying bags of cash wherever you go
+    category: default
+    display-item: NAME_TAG
+    displayname: '&7Tag: %tag%'
+    cost: 0.0
+  vaultkeeper:
+    tag: '&#00ced1[&lᴠ&#1ad5d6&#33dbdc&#4de1e2]'
+    permission: supremetags.tag.vaultkeeper
+    description: Guard your riches with precision and power
+    category: default
+    display-item: NAME_TAG
+    displayname: '&7Tag: %tag%'
+    cost: 0.0
+  goldmagnate:
+    tag: '&#ffcc33[&lɢ&#ffcc33&#ffe066&#ffeb99&#fff4cc]'
+    permission: supremetags.tag.goldmagnate
+    description: A magnate controlling vast reserves of gold
+    category: default
+    display-item: NAME_TAG
+    displayname: '&7Tag: %tag%'
+    cost: 0.0
+  trademaster:
+    tag: '&#00bfff[&lᴛ&#1ac5ff&#33caff&#4dcfff&#66d5ff]'
+    permission: supremetags.tag.trademaster
+    description: Master of trade, exchanging fortunes with ease
+    category: default
+    display-item: NAME_TAG
+    displayname: '&7Tag: %tag%'
+    cost: 0.0
+  monopolyking:
+    tag: '&#4b0082[&lᴍ&#591489&#671891]'
+    permission: supremetags.tag.monopolyking
+    description: Reigning supreme in the game of monopolies
+    category: default
+    display-item: NAME_TAG
+    displayname: '&7Tag: %tag%'
+    cost: 0.0
