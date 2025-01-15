@@ -1,0 +1,48 @@
+  tycoon:
+    tag: '&#f9a602[&lᴛ&#f9b103&lʏ&#f9c504&lᴄ&#f9d905&lᴏ&#f9ed06&lᴏ&#f9ff07&lɴ]'
+    permission: supremetags.tag.tycoon
+    description: Build empires, dominate markets, and reign supreme
+    category: default
+    display-item: NAME_TAG
+    displayname: '&7Tag: %tag%'
+    cost: 0.0
+  mogul:
+    tag: '&#a67c52[&lᴍ&#a78458&lᴏ&#a88d5e&lɢ&#a99664&lᴜ&#aa9f6a&lʟ]'
+    permission: supremetags.tag.mogul
+    description: A titan of industry and wealth creation
+    category: default
+    display-item: NAME_TAG
+    displayname: '&7Tag: %tag%'
+    cost: 0.0
+  fortune:
+    tag: '&#ffd700[&lғ&#ffcc00&lᴏ&#ffb300&lʀ&#ff9900&lᴛ&#ff8000&lᴜ&#ff6600&lɴ&#ff4d00&lᴇ]'
+    permission: supremetags.tag.fortune
+    description: Embody the spirit of abundance and success
+    category: default
+    display-item: NAME_TAG
+    displayname: '&7Tag: %tag%'
+    cost: 0.0
+  investor:
+    tag: '&#4caf50[&lɪ&#58d359&lɴ&#66e563&lᴠ&#74f66d&lᴇ&#81f977&lʀ]'
+    permission: supremetags.tag.investor
+    description: Master of investments, with returns from every corner
+    category: default
+    display-item: NAME_TAG
+    displayname: '&7Tag: %tag%'
+    cost: 0.0
+  billionaire:
+    tag: '&#ffd700[&lʙ&#e6be00&lɪ&#cc9d00&lʟ&#b37c00&lɪ&#996000&lᴏ&#804800&lɴ&#663300&lᴀ&#4d2400&lɪ&#331700&lʀ&#1a0a00&lᴇ]'
+    permission: supremetags.tag.billionaire
+    description: Among the elite with unparalleled wealth
+    category: default
+    display-item: NAME_TAG
+    displayname: '&7Tag: %tag%'
+    cost: 0.0
+  goldrush:
+    tag: '&#d4af37[&lɢ&#e0b847&lo&#ebc257&ll&#f7cb67&ld&#ffe577&lr&#eed577&lu&#dcc577&ls&#cbb577&lh]'
+    permission: supremetags.tag.goldrush
+    description: Strike it rich, fortune awaits
+    category: default
+    display-item: NAME_TAG
+    displayname: '&7Tag: %tag%'
+    cost: 0.0
